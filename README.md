@@ -1,5 +1,6 @@
 # RPA
-RPA project to automate filling up of bank loan applications form using computer vision. Steps and description is as follow:
+RPA project to automate filling up of bank loan applications form using computer vision. I also used orchestrator so that it is an unattended bot. This will allow it to start the automation on a predefined schedule. 
+Steps and description is as follow:
 
 
 -RPA has the power to streamline the customer onboarding experience which is very important in the banking industry.
