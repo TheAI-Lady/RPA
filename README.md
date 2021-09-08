@@ -8,3 +8,5 @@ Computer vision is great to work with to produce reliable and accurate workflow.
 https://imgur.com/QwdXeCO
 
 https://imgur.com/bTbV8mC
+
+*This project achieved an A grade for my school assessment. 
